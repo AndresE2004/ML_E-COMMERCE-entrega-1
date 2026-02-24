@@ -34,3 +34,6 @@ Este proyecto realiza análisis de Machine Learning sobre un dataset de comporta
 ## Dataset
 
 Se utiliza el archivo `e_commerce_shopper_behaviour_and_lifestyle.csv` que contiene datos de comportamiento de compradores en línea con 60 columnas y 1,000,000 de registros.
+
+debido a que el dataset es muy grande, no permite ser adjuntado en el repositorio, por lo que se debe descargar manualmente desde el siguiente enlace:
+https://www.kaggle.com/datasets/andrewmvd/ecommerce-customers-behavior-and-lifestyle

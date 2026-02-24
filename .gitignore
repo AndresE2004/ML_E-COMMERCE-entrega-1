@@ -1,0 +1,26 @@
+# Ignorar archivos grandes
+*.csv
+
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar archivos de datos
+*.parquet
+*.json
+*.xlsx
+*.xls
