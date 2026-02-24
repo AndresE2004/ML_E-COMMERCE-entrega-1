@@ -89,7 +89,7 @@ El modelo no funcionó por las siguientes razones:
 
 ---
 
-# Reformulación del Modelo
+# Reformulación del Modelo en Ajustado.py
 
 ## nueva variable
 
